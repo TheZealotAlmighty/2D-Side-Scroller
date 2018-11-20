@@ -1,0 +1,3 @@
+C:\Users\zackm\OneDrive\Documents\Unreal Projects\2D Side Scroller\SideScroller2D\Source\SideScroller2D\SideScroller2D.Build.cs
+C:\Users\zackm\OneDrive\Documents\Unreal Projects\2D Side Scroller\SideScroller2D\Source\SideScroller2D.Target.cs
+C:\Users\zackm\OneDrive\Documents\Unreal Projects\2D Side Scroller\SideScroller2D\Source\SideScroller2DEditor.Target.cs
